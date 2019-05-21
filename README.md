@@ -44,5 +44,5 @@ Markdown支持6种级别的标题，与html标签h1~h6对应。
 ![图片](https:1.jpg)
 ```
 效果：
-[点击跳转至百度](http:www.baidu.com)
-![图片](https:1.jpg)
+[点击跳转至百度](http:www.baidu.com)  
+![图片](https:1.png)
