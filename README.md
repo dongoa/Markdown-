@@ -37,3 +37,12 @@ Markdown支持6种级别的标题，与html标签h1~h6对应。
 ```
 效果
 > 这段文字高亮显示
+### 插入链接或图片
+样例代码：
+```
+[点击跳转至百度](http:www.baidu.com)
+![图片](https:1.jpg)
+```
+效果：
+[点击跳转至百度](http:www.baidu.com)
+![图片](https:1.jpg)
