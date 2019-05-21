@@ -44,8 +44,7 @@ Markdown支持6种级别的标题，与html标签h1~h6对应。
 [![baidu]](http:www.baidu.com "百度")
 [baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 ```
-[![baidu]](http:www.baidu.com "百度")
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")
+[![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")](http:www.baidu.com "百度")
 ### 列表
 Markdown支持有序列表和无序列表两种形式：  
 + 无序列表使用*或+或-标识，多级列表就是多加一个tab。
