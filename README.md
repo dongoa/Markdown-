@@ -151,11 +151,14 @@ function(){
 ```
 	多行文本
 	多行文本
-### 表情
+### 表情和声音
+git表情地址：https://www.webfx.com/tools/emoji-cheat-sheet/  
 ```
 :smile: 
+/play greatjob
 ```
 :smile:  
+/play greatjob
 ### 勾选选项
 ```
 -[ ] 不勾选  
@@ -172,4 +175,4 @@ X^2^(需在设置中打开该功能)
 ==高亮==(需在设置中打开该功能)  
 \下划线  
 
-dasdas [^1].
+dasdas [ ^ 1].
