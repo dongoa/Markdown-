@@ -35,10 +35,10 @@ Markdown支持6种级别的标题，与html标签h1~h6对应。
 ### 插入链接或图片
 ```
 [点击跳转至百度](http:www.baidu.com "百度")
-![图片](./1.jpg "图片")
+![图片](./1.gif "图片")
 ```
 [点击跳转至百度](http:www.baidu.com "百度")  
-![图片](./1.png "图片")  
+![图片](./1.gif "图片")  
 如下给图片加上超链接的代码：
 ```
 [![baidu](http://www.baidu.com/img/bdlogo.gif "百度Logo")](http:www.baidu.com "百度")
