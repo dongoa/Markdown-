@@ -151,10 +151,6 @@ function(){
 ```
 	多行文本
 	多行文本
-### 给文字上色
-Markdown其实就是一种易于编写的普通文本，只不过加入了部分渲染文本的标签.
-<div style='color:red;'>dasda</div>
-< iframe height=’265’ scrolling=’no’ title=’Fancy Animated SVG Menu’ src=’http://codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder=’no’ allowtransparency=’true’ allowfullscreen=’true’ style=’width: 100%;’>
 :smile:  
 H~2~O (需在设置中打开该功能)  
 X^2^(需在设置中打开该功能)  
@@ -162,12 +158,6 @@ X^2^(需在设置中打开该功能)
 \下划线  
 \td_simon@outlook.com  
 [^1].  
-$$    
-\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix}  
-\mathbf{i} & \mathbf{j} & \mathbf{k} \  
-\frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \  
-\frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \  
-\end{vmatrix}  
-$$   
+
 - [ ] 不勾选  
 - [x] 勾选  
