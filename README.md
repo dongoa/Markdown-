@@ -83,3 +83,18 @@ __加粗__
 _斜体_  
 **加粗**  
 __加粗__  
+## 高级用法
+### 插入代码块
+插入代码块需要至少两个以上反引号进行包裹。  
+```
+\`\`\`
+function(){
+	console.log("Chicken you are too beautiful!");
+}
+\`\`\`
+```
+```
+function(){
+	console.log("Chicken you are too beautiful!");
+}
+```
