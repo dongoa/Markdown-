@@ -87,11 +87,11 @@ __加粗__
 ### 插入代码块
 插入代码块需要至少两个以上反引号进行包裹。  
 ```
-\`\`\`
+\```
 function(){
 	console.log("Chicken you are too beautiful!");
 }
-\`\`\`
+\```
 ```
 ```
 function(){
