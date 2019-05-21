@@ -158,7 +158,7 @@ git表情地址：https://www.webfx.com/tools/emoji-cheat-sheet/
 /play greatjob
 ```
 :smile:  
-/play greatjob
+:/play greatjob:
 ### 勾选选项
 ```
 -[ ] 不勾选  
