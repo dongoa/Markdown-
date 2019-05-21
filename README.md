@@ -151,14 +151,12 @@ function(){
 ```
 	多行文本
 	多行文本
-### 表情和声音
+### 表情
 git表情地址：https://www.webfx.com/tools/emoji-cheat-sheet/  
 ```
 :smile: 
-/play greatjob
 ```
 :smile:  
-:/play greatjob:
 ### 勾选选项
 ```
 - [ ] 不勾选  
