@@ -152,3 +152,6 @@ function(){
 ```
 	多行文本
 	多行文本
+### 给文字上色
+Markdown其实就是一种易于编写的普通文本，只不过加入了部分渲染文本的标签.
+<font color='red'>dasda</font>
