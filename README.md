@@ -161,7 +161,7 @@ git表情地址：https://www.webfx.com/tools/emoji-cheat-sheet/
 :/play greatjob:
 ### 勾选选项
 ```
--[ ] 不勾选  
+- [ ] 不勾选  
 - [x] 勾选 
 ```
 - [ ] 不勾选  
