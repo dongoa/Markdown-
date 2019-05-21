@@ -168,9 +168,3 @@ git表情地址：https://www.webfx.com/tools/emoji-cheat-sheet/
 ### 网址
 在Markdown输入的链接均显示为网页链接样式。  
 www.badu.com  
-H~2~O (需在设置中打开该功能)  
-X^2^(需在设置中打开该功能)  
-==高亮==(需在设置中打开该功能)  
-\下划线  
-
-dasdas [ ^ 1].
